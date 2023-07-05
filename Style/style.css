@@ -12,7 +12,10 @@ div{
     border-radius: 10px;
     border: 10px solid black;
     padding: 20px;
-    margin: 20px;
+    margin: 20px 20px 15px;
     color: white;
     font-style: italic;
+    display: inline-block;
+    width: 25%;
+    background: linear-gradient(to top left, #304352);
 }
